@@ -1,0 +1,5 @@
+CEU	NA12891_vald-sorted.bam.bam	0	0	1	0
+CEU	NA12891_vald-sorted.bam.bam	0	0	2	0
+CEU	NA12878_vald-sorted.bam.bam	NA12891_vald-sorted.bam.bam	NA12892_vald-sorted.bam.bam	2	2
+CEU	EU12891_vald-sorted.bam.bam	0	0	2	0
+CEU	NA33111_vald-sorted.bam.bam	EU12891_vald-sorted.bam.bam	NA12892_vald-sorted.bam.bam	2	2
