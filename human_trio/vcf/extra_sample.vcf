@@ -1,0 +1,9 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##bcftoolsVersion=1.6+htslib-1.7
+##bcftoolsCommand=mpileup -a DP,AD,INFO/AD -f ../trio.fasta.gz ../trio.bam
+##reference=file://../trio.fasta.gz
+##contig=<ID=5,length=180915260>
+##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NA12891	FAKE	NA12878	NA12892
+5	126385924	.	G	T	.	.	.	AD	34,0	20,20	15,20	43,1
