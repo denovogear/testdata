@@ -1,6 +1,0 @@
-##fileformat=VCFv4.2
-##FILTER=<ID=PASS,Description="All filters passed">
-##FORMAT=<ID=AD,Number=.,Type=Integer,Description="Allelic depths for the ref and alt alleles in the order listed">
-##contig=<ID=5,length=180915260>
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NA12001:Solexa-001	NA12002:Solexa-002	NA12003:Solexa-003	NA12004:Solexa-004	NA12005:Solexa-005	NA12006:Solexa-006	NA12007:Solexa-007	NA12008:Solexa-008	NA12009:Solexa-009	NA12010:Solexa-010	NA12011:Solexa-011	NA12012:Solexa-012
-5	126385924	.	G	T,C	0	PASS		AD	25,29,1	57,0,0	76,1,0	25,29,1	57,0,0	76,1,0	25,29,1	57,0,0	76,1,0	25,29,1	57,0,0	76,1,0
